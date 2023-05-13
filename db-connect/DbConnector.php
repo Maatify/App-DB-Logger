@@ -9,6 +9,7 @@
 namespace Maatify\DB;
 
 use Maatify\App\App;
+use Maatify\Model\Model;
 
 abstract class DbConnector extends Model
 {
