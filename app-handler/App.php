@@ -9,10 +9,10 @@
 
 namespace Maatify\App;
 
-use Maatify\DB\DB;
+use Maatify\Model\DB;
 use Maatify\Json\Json;
 use Maatify\Logger\Logger;
-use PDOException;
+use \PDOException;
 
 class App
 {
